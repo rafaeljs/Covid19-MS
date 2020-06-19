@@ -47,7 +47,7 @@ function PaperGraphic({cidade, total,dataCidade, setCidade,classePaper}) {
             </BarChart>
         </ResponsiveContainer>
         <Typography variant="caption" display="block" gutterBottom >
-            *Deslize as barras para alterar o periodo de leitura do gráfico.
+            *Deslize as barras para alterar o período de leitura do gráfico.
         </Typography>
     </Paper>
   );
